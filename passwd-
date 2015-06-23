@@ -35,4 +35,5 @@ swift:x:114:122::/home/swift:/bin/false
 colord:x:115:124:colord colour management daemon,,,:/var/lib/colord:/bin/false
 dnsmasq:x:116:65534:dnsmasq,,,:/var/lib/misc:/bin/false
 libvirt-qemu:x:117:126:Libvirt Qemu,,,:/var/lib/libvirt:/bin/false
-libvirt-dnsmasq:x:118:125::/var/lib/libvirt/dnsmasq:/bin/false
+libvirt-dnsmasq:x:118:125:Libvirt Dnsmasq,,,:/var/lib/libvirt/dnsmasq:/bin/false
+cinder:x:119:127::/var/lib/cinder:/bin/false

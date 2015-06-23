@@ -63,3 +63,4 @@ swift:!::
 scanner:!::
 colord:!::
 libvirtd:!::ctrl1
+kvm:!::

@@ -64,3 +64,4 @@ scanner:x:123:
 colord:x:124:
 libvirtd:x:125:ctrl1
 kvm:x:126:
+cinder:x:127:
